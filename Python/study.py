@@ -1,4 +1,5 @@
 # Program Python Dasar untuk Pemula
+# Heheheh
 
 # 1. Variabel dan Tipe Data
 nama = "Danish"  # Tipe data string
